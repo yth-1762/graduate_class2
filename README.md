@@ -12,7 +12,7 @@
  
 
 # 데이터
-- 서울시공공데이터(www.data.seoul.go.kr)에 있는 서울시 공공자전거 이용정보(시간대별) 데이터
+- 서울시공공데이터(www.data.seoul.go.kr) 에 있는 서울시 공공자전거 이용정보(시간대별) 데이터
 - 데이터 개수 : 3704328개
 - USE_CNT(이용건수), EXER_AMT(운동량), CARBON_AMT(탄소 절감량), MOVE_METER(이동거리)라는 4개의 수치형 변수와 RENT_DT(대여일자), RENT_ID(대여소번호), RENT_NM(대여소명), RENT_HR(대여시간), RENT_TYPE(대여구분코드), GENDER_CD(성별), AGE_TYPE(나이), , MOVE_TIME(이동시간)라는 8개의 범주형 변수로 구성
   
